@@ -1,4 +1,4 @@
-# Task-3-Intractive-Dashboard-for-business-stackholder-Revenue-Sales-Perfomence-
+<img width="1192" height="650" alt="Screenshot 2025-08-07 153117" src="https://github.com/user-attachments/assets/b77997f2-49cf-46a0-8481-273fe1250a74" /># Task-3-Intractive-Dashboard-for-business-stackholder-Revenue-Sales-Perfomence-
 📝 Overview
 This Power BI dashboard provides a comprehensive analysis of revenue, transactions, and sales performance across regions, products, and sales representatives for the year 2019,2020. It’s designed to help stakeholders quickly grasp key business metrics and identify growth opportunities.
 
