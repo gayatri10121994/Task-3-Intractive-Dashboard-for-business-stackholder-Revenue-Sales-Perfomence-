@@ -1,6 +1,6 @@
 # Task-3-Intractive-Dashboard-for-business-stackholder-Revenue-Sales-Perfomence-
 📝 Overview
-This Power BI dashboard provides a comprehensive analysis of revenue, transactions, and sales performance across regions, products, and sales representatives for the year 2020. It’s designed to help stakeholders quickly grasp key business metrics and identify growth opportunities.
+This Power BI dashboard provides a comprehensive analysis of revenue, transactions, and sales performance across regions, products, and sales representatives for the year 2019,2020. It’s designed to help stakeholders quickly grasp key business metrics and identify growth opportunities.
 
 📌 Key Metrics
 - Total Revenue: ₹13.56 million
